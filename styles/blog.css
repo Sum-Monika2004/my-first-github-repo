@@ -3,3 +3,7 @@ div{
   padding: 10px;
   margin: 15px;
 }
+.cat{
+  object-fit: cover;
+  width: 200px;
+}
